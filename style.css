@@ -5,8 +5,15 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(165, 116, 42);
     color: white;
+}
+
+.titolo {
+    text-align: center;
+    margin: 2rem;
+    color: yellow;
+
 }
 
 #grid {
@@ -23,4 +30,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.evidenziata {
+    background-color: rgb(83, 187, 222);
 }
